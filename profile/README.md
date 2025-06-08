@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/AstraSyncAI/.github/blob/main/profile/astrasync-logo.png" alt="AstraSync Logo" width="200"/>
+  <img src="[https://github.com/AstraSyncAI/.github/blob/main/profile/AS_black_logoFCN.png]" alt="AstraSync Logo" width="200"/>
   
   # AstraSync Know Your Agent Platform
   
