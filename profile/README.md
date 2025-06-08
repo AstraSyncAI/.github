@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="[https://github.com/AstraSyncAI/.github/blob/main/profile/AS_black_logoFCN.png]" alt="AstraSync Logo" width="200"/>
+<img src="https://github.com/AstraSyncAI/.github/blob/main/profile/AS_black_logoFCN.png" alt="AstraSync Logo" width="200"/>
   
   # AstraSync Know Your Agent Platform
   
   **Bringing Identity, Verification and Trust to the Agentic Population**
   
   [![Website](https://img.shields.io/badge/Website-astrasync.ai-blue?style=flat-square)](https://astrasync.ai)
-  [![Discord](https://img.shields.io/discord/1377443016721170462?color=7289da&label=Discord&logo=discord&logoColor=white&style=flat-square)](https://discord.gg/E8wUgf2E)
+ [![Discord](https://img.shields.io/discord/1377443016721170462?color=7289da&label=Discord&logo=discord&logoColor=white&style=flat-square)](https://discord.gg/E8wUgf2E)]
   [![Twitter](https://img.shields.io/twitter/follow/astrasyncai?style=flat-square&logo=x&color=000000)](https://x.com/astrasyncai)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-AstraSync-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/company/astrasync-ai)
   [![Documentation](https://img.shields.io/badge/Docs-GitBook-3884FF?style=flat-square)](https://astrasync-ai.gitbook.io/astrasync/)
